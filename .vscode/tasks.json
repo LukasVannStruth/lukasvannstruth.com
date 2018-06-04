@@ -7,7 +7,8 @@
             "label": "Start Flask Website",
             "type": "shell",
             "command": "source ${workspaceRoot}/.vscode/start_flask_website.sh",
-            "group": "build"
+            "group": "build",
+            "problemMatcher": []
         }
     ]
 }
