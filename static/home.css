@@ -7,7 +7,9 @@
 }
 #title {
     color: skyblue;
-}
-h1 {
-    color: goldenrod;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-self: flex-start;
+    
 }
