@@ -1,11 +1,11 @@
-#id {
+#titlebar {
     display: flex;
     align-items: center;
     justify-content: center;
     align-self: flex-start;
     
 }
-.title {
+#title {
     color: skyblue;
 }
 h1 {
